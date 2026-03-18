@@ -2,7 +2,7 @@
 
 A clean, minimal, and professional CV website built with HTML, CSS, and vanilla JavaScript.
 
-**Live Site:** `https://evaantonopoulou.github.io/`
+**Live Site:** `https://evaantonopoulou.github.io/cv/`
 
 ---
 
